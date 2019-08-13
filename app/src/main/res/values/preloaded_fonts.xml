@@ -2,6 +2,8 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/geostar</item>
+        <item>@font/metal_mania</item>
         <item>@font/nosifer</item>
+        <item>@font/warnes</item>
     </array>
 </resources>
